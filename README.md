@@ -1,1 +1,1 @@
-this is a new lines for readme
+this repo is for dsi workshop
